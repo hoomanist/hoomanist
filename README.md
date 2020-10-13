@@ -1,6 +1,5 @@
 # Hi , I'm hooman. 
 
-i like to became a great system developer.
 
 [![Hooman's github stats](https://github-readme-stats.vercel.app/api?username=hoomanist)](https://github.com/anuraghazra/github-readme-stats)
 
